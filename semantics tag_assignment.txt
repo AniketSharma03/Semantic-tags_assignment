@@ -1,0 +1,14 @@
+1.What are the new things introduced in HTML5?
+
+Sol:HTML5 introduced several new features and enhancements to improve web development.Introduces new semantic elements like <header>, <nav>, <article>, <section>, <footer>, etc., to provide better structure and meaning to web content.Introduces <audio> and <video> elements for embedding audio and video content directly into web pages without the need for plugins and many more.
+
+2.What are semantic tags? Give a couple of examples.
+
+Sol:Semantic tags in HTML are elements that carry meaning about the structure and content of a web page. They provide a more descriptive and meaningful way to express the purpose of different parts of a document. 
+For Example:<article>:Represents a self-contained piece of content that could be distributed and reused independently.
+<section>:Defines a section of content within a document. 
+
+3.List some uses of semantic tags.
+
+Sol:Semantic tags in HTML offers numerous benefits, including enhanced accessibility, improved SEO, clearer document structure, and better collaboration among developers. They play a crucial role in creating well-organized, readable, and future-proof web content.
+
